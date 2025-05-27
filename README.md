@@ -8,3 +8,5 @@ There are two main things to note:
 - Please Extract the .zip file within the Food Directory as it contains crucial agent observation data which was too large to push to the repo uncompressed.
 
 - Please import the Unity Package into an empty Unity Scene and install dependencies accordingly.
+
+### ALL PYTHON CODE WAS PROGRAMMED AND EXECUTED USING PYTHON 3.10.11
